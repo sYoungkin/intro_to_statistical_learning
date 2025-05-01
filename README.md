@@ -1,2 +1,2 @@
 # intro_to_statistical_learning
-Applied projects accompanying Introduction to Statistical Learning
+Applied projects accompanying Introduction to Statistical Learning (with AI)
